@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon/Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M21.0571429,6.4 L0.942857143,6.4 C0.0754285714,6.4 0,7.1152 0,8 C0,8.8848 0.0754285714,9.6 0.942857143,9.6 L21.0571429,9.6 C21.9245714,9.6 22,8.8848 22,8 C22,7.1152 21.9245714,6.4 21.0571429,6.4 Z M21.0571429,12.8 L0.942857143,12.8 C0.0754285714,12.8 0,13.5152 0,14.4 C0,15.2848 0.0754285714,16 0.942857143,16 L21.0571429,16 C21.9245714,16 22,15.2848 22,14.4 C22,13.5152 21.9245714,12.8 21.0571429,12.8 Z M0.942857143,3.2 L21.0571429,3.2 C21.9245714,3.2 22,2.4848 22,1.6 C22,0.7152 21.9245714,0 21.0571429,0 L0.942857143,0 C0.0754285714,0 0,0.7152 0,1.6 C0,2.4848 0.0754285714,3.2 0.942857143,3.2 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

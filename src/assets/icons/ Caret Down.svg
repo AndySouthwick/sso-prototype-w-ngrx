@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / z-embedded / icon glyphs / utility /caret down</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.65032262,7 L22.3503226,7 C22.8503226,7 23.2003226,7.65 22.8003226,8.1 L14.1503226,18.7 C13.8503226,19.1 13.2003226,19.1 12.9003226,18.7 L4.15032262,8.1 C3.80032262,7.65 4.10032262,7 4.65032262,7 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-z-embedded-/-icon-glyphs-/-utility-/caret-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+        <g id="z-embedded-/-Color-Tokens-/-PALETTE_GRAY_9" mask="url(#mask-2)" fill="#706E6B">
+            <rect id="Rectangle" x="0" y="0" width="26" height="26"></rect>
+        </g>
+    </g>
+</svg>

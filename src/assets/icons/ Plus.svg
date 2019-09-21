@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#000000" fill-rule="nonzero" id="Shape">
+            <path d="M15.5714286,7 L9,7 L9,0.428571429 C9,0.192857143 8.80714286,0 8.57142857,0 L7.42857143,0 C7.19285714,0 7,0.192857143 7,0.428571429 L7,7 L0.428571429,7 C0.192857143,7 0,7.19285714 0,7.42857143 L0,8.57142857 C0,8.80714286 0.192857143,9 0.428571429,9 L7,9 L7,15.5714286 C7,15.8071429 7.19285714,16 7.42857143,16 L8.57142857,16 C8.80714286,16 9,15.8071429 9,15.5714286 L9,9 L15.5714286,9 C15.8071429,9 16,8.80714286 16,8.57142857 L16,7.42857143 C16,7.19285714 15.8071429,7 15.5714286,7 Z"></path>
+        </g>
+    </g>
+</svg>

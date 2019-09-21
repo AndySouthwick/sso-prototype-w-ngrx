@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Send</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.24863988,10.5913701 L20.6264336,3 L8.93644782,13.9360786 L2.25668584,11.3380358 C2.10300787,11.2784957 2.00162868,11.1320591 2.00001949,10.9687259 C1.9984103,10.802979 2.0965711,10.6541286 2.24863988,10.5913701 Z M9.24919456,14.7447788 L21.2835477,3.48847067 L18.082862,18.2890273 C18.0563103,18.4145444 17.9718276,18.5175328 17.8567703,18.5706362 C17.7465405,18.6213258 17.6105637,18.6205212 17.496311,18.5561535 L12.6357422,15.8840877 L9.99103274,20.4187949 C9.91781444,20.544312 9.78425138,20.6183349 9.64344696,20.6183349 C9.41896447,20.6183349 9.2411486,20.436496 9.2411486,20.2160365 L9.2411486,14.7367328 L9.24919456,14.7447788 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon/Send" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Bounding-Box" x="0" y="0" width="24" height="24"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Mask"></g>
+        <g id="Mixin/Fill/Black" mask="url(#mask-2)" fill="#353535">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

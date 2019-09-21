@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / Utility Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.35,22.730962 L10.7,22.230962 C10,21.730962 10,20.730962 10,20.230962 L10,18.780962 C10,18.380962 9.65,18.030962 9.25,18.030962 L6.25,18.030962 C5.85,18.030962 5.5,18.380962 5.5,18.780962 L5.5,22.630962 C5.5,23.980962 6.3,25.030962 7.55,25.030962 L10,25.030962 C11.45,25.030962 11.55,24.030962 11.55,24.030962 C11.55,24.030962 11.8,23.130962 11.35,22.730962 L11.35,22.730962 Z M22.5,9.03096205 L22.5,2.18096205 C22.5,0.980962045 21,0.630962045 20.2,1.43096205 L15.75,5.63096205 C15.05,6.23096205 14.15,6.48096205 13.25,6.48096205 L5.65,6.48096205 C3.05,6.53096205 1,8.78096205 1,11.380962 L1,11.480962 C1,14.080962 3.05,16.030962 5.65,16.030962 L13.25,16.030962 C14.2,16.030962 15.1,16.430962 15.8,17.030962 L20.2,21.330962 C21,22.130962 22.5,21.830962 22.5,20.630962 L22.5,13.830962 C24,13.830962 24.9,12.780962 24.9,11.430962 C24.9,10.080962 24,9.03096205 22.5,9.03096205 L22.5,9.03096205 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-Utility-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="26" height="26"></rect>
+        <g id="Icons-/-z-embedded-/-icon-glyphs-/-utility-/announcement">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <g id="z-embedded-/-Color-Tokens-/-PALETTE_GRAY_9" mask="url(#mask-2)" fill="#706E6B" fill-rule="evenodd">
+                <rect id="Rectangle" x="0" y="0" width="26" height="26"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
