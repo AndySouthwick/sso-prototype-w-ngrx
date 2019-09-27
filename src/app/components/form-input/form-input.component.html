@@ -1,0 +1,18 @@
+<div class="input-wrapper">
+  <label>{{data.label}}</label>
+  <div class="input" (click)="this.removeIcon()">
+    <input type="{{data.inputType}}" (change)="this.getStringForInput($event.target.value)" class="{{data.textInputClass}}" placeholder="{{data.placeholder}}" value="{{data.value}}"/>
+
+    <span class="inset-icon" *ngIf="data.icon === 'valid-icon'">
+      <img src="/assets/icons/valid.svg" style="width: 14px; height: 11px" alt="valid"/>
+    </span>
+
+    <span class="inset-icon" *ngIf="data.icon === 'alert-icon'">
+      <img src="/assets/icons/alert.svg" alt="alert">
+    </span>
+    <span class="inset-icon" *ngIf="data.icon === 'warning-icon'">
+      <img src="/assets/icons/warning.svg" alt="warning"/>
+    </span>
+  </div>
+  <div *ngIf="data.inputMessage" class="{{data.inputMessageClass}}">{{data.inputMessage}}</div>
+</div>

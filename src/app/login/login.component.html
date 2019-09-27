@@ -1,0 +1,27 @@
+<div class="content-wrapper">
+
+
+<div class="login-module">
+  <div class="form-field">
+    <app-form-input [data]="{label: 'Username'}" (dataOut)="checkUserName($event)"></app-form-input>
+  </div>
+  <div class="form-field">
+    <app-form-input [data]="{label: 'Password', inputType: 'password'}" (dataOut)="checkPassword($event)"></app-form-input>
+  </div>
+  <div class="button">
+    <app-buttons [data]="{buttonClass: 'button-large-primary'}" (dataOut)="this.buttonClicked()">Login With Username</app-buttons>
+  </div>
+  <div class="forgot">
+    <span>Forgot <a href="">username</a> or <a href="">password</a>?</span>
+  </div>
+  <div *ngIf="alert" class="alert">
+    <app-alert [data]="{
+    alertClass: 'alert-large-warning',
+    alertType: '',
+    actionItem: '',
+    alert: this.alert,
+    actionItemLink: '/reset',
+    icon: '/assets/icons/warnblack.svg'}"></app-alert>
+  </div>
+</div>
+</div>

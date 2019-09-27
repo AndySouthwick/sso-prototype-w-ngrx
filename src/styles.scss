@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'app/style-params';
+body{
+@include font-body
+}
+a{
+  color: $usana-blue-400;
+  text-decoration: none;
+}
+.content-wrapper{
+ width: 100%;
+  display: flex;
+  justify-content: center;
+}

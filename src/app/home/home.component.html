@@ -1,0 +1,21 @@
+<div class="content-wrapper">
+
+
+  <div class="login-module">
+    <div class="login-button">
+      <app-buttons [data]="{buttonClass: 'button-large-primary'}" (dataOut)="this.buttonClicked('Phone')">Login With Phone</app-buttons>
+    </div>
+    <div>
+      <a [routerLink]="'/login'"> <app-buttons [data]="{buttonClass: 'button-large-primary'}" (dataOut)="this.buttonClicked('Username')">Login With Username</app-buttons></a>
+    </div>
+    <div class="or-line">
+    <span class="or-span">
+     or <!--Padding is optional-->
+    </span>
+    </div>
+    <div class="social">
+      <img src="/assets/images/social.png" alt="">
+    </div>
+  </div>
+
+</div>

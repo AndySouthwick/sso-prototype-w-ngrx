@@ -1,0 +1,52 @@
+@import '../../style-params.scss';
+
+label{
+  @include font-news-caption;
+}
+.input-wrapper{
+  position: relative;
+  width: 100%;
+  height: 88px;
+max-width: 320px;
+}
+.input {
+  //position: absolute;
+  width: 100%;
+  //display: flex;
+  //flex-direction: column;
+  .inset-icon {
+    //width: 100%;
+    position: absolute;
+    right: 0;
+    top: 44px;
+  }
+  input {
+    padding-left: 8px;
+    height: 40px;
+    width: 100%;
+    font-size:  $font-body-font-size;
+    border-radius: 4px;
+    border: 2px solid $usana-grey-400;
+    margin: 8px 0 24px 0;
+    &:focus {
+      border: 2px solid $usana-blue-300;
+    }
+  }
+  .warning {
+    margin: 8px 0 32px 0;
+    border: 2px solid $usana-red-500;
+  }
+  .alert {
+    margin: 8px 0 32px 0;
+    border: 2px solid $usana-yellow-500;
+  }
+  .valid {
+    margin: 8px 0 32px 0;
+    border: 2px solid $usana-green-400;
+  }
+  .active {
+    margin: 8px 0 32px 0;
+    border: 2px solid $usana-blue-300;
+  }
+}
+

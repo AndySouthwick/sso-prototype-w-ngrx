@@ -1,0 +1,11 @@
+<div class="{{data.alertClass}} flexitforicon">
+  <div class="icon" *ngIf="data.icon">
+    <span><img src="{{data.icon}}" alt="alert"></span>
+  </div>
+  <div>
+    <strong *ngIf="data.alertType">{{data.alertType}} </strong>
+    <span>{{data.alert}} </span>
+    <a href="{{data.actionItemLink}}">{{data.actionItem}}</a>
+  </div>
+
+</div>
